@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambaskaryash&label=Profile%20views&color=0e75b6&style=flat" alt="ambaskaryash" /> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://portfolio.ambaskar.litemere.org)
+- 🔭 I’m currently working on [My Portfolio](https://ambaskar.litemere.expert)
 
 - 🌱 I’m currently learning **React JS, npm, Manual and Automation Testing**
 
