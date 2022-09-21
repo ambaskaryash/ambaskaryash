@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://ambaskaryash.dev)
 
-- 🌱 I’m currently learning **React JS, npm, Manual and Automation Testing, and DevOps**
+- 🌱 I’m currently learning **React JS, npm, Manual/Automation Testing, and DevOps**
 
 - 💬 Ask me about **Testing, Web Designing**
 
