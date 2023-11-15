@@ -6,7 +6,7 @@ A passionate Developer/ Tester from India
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [yashambaskar@outlook.com](mailto:yashambaskar@outlook.com)
-*   🚀  I'm currently working on [MyPortfolio](http://we-build.tech)
+*   🚀  I'm currently working on [MyPortfolio](http://projectbuilder.net)
 *   🧠  I'm learning React JS, npm, Manual/Automation Testing, and DevOps### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
